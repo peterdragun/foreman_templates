@@ -1,0 +1,8 @@
+== Foreman Templates Automation Repo
+
+A custom repo created to test Automation of Templates Plugin feature.
+
+_Features to be tested:_
+
+* Import from Git
+* Export to Git
